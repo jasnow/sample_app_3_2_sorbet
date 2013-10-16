@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rake'
 
-gem 'rails', '3.2.15.rc3'
+gem 'rails', '3.2.15'
 
 gem 'rack'
 
