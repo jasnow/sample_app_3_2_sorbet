@@ -38,5 +38,7 @@ module SampleApp31
 
     # Enable the asset pipeline
     config.assets.enabled = true
+
+    I18n.config.enforce_available_locales = false
   end
 end
