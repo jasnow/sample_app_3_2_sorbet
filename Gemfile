@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rake'
 
-gem 'rails', '3.2.19'
+gem 'rails', '3.2.20'
 
 gem 'rack'
 
@@ -26,7 +26,7 @@ group :development, :test, :production do
 end
 
 group :development, :test do
-  gem "rspec-rails", '2.99.0'
+  gem 'rspec-rails', '2.99.0'
 end
 
 group :development do
