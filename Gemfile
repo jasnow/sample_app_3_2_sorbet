@@ -21,11 +21,12 @@ gem 'nokogiri'
 
 gem 'json'
 
-group :development, :test, :production do
+group :production do
   gem 'pg'
 end
 
 group :development, :test do
+  gem 'sqlite3'
   gem 'rspec-rails', '2.99.0'
 end
 
