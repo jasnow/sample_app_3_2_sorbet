@@ -228,10 +228,9 @@ describe User, :type => :model do
       expect(@user).to respond_to(:microposts)
     end
 
-#FIXME:
-#    it "should have the right microposts in the right order" do
-#      expect(@user.microposts).to eq([@mp2, @mp1])
-#    end
+    it "should have the right microposts in the right order" do
+      expect(@user.microposts).to eq([@mp1, @mp2])
+    end
 
     it "should destroy associated microposts" do
       @user.destroy
