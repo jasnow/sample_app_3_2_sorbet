@@ -232,9 +232,8 @@ GEM
       ansi
       minitest (~> 4)
     tzinfo (0.3.47)
-    uglifier (2.7.2)
-      execjs (>= 0.3.0)
-      json (>= 1.8.0)
+    uglifier (3.0.0)
+      execjs (>= 0.3.0, < 3)
     uuidtools (2.1.5)
     webrat (0.7.3)
       nokogiri (>= 1.2.0)
