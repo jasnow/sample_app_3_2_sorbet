@@ -148,7 +148,7 @@ GEM
     mime-types (1.25.1)
     mini_portile2 (2.0.0)
     minitest (4.7.5)
-    multi_json (1.11.2)
+    multi_json (1.11.3)
     nokogiri (1.6.7.2)
       mini_portile2 (~> 2.0.0.rc2)
     overcommit (0.33.0)
