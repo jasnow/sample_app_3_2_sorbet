@@ -124,7 +124,7 @@ GEM
     faker (1.6.3)
       i18n (~> 0.5)
     fastercsv (1.5.5)
-    ffi (1.9.10)
+    ffi (1.9.11)
     gravatar_image_tag (1.2.0)
     haml (4.0.7)
       tilt
