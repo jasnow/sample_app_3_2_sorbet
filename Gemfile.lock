@@ -124,7 +124,7 @@ GEM
     faker (1.6.3)
       i18n (~> 0.5)
     fastercsv (1.5.5)
-    ffi (1.9.11)
+    ffi (1.9.12)
     gravatar_image_tag (1.2.0)
     haml (4.0.7)
       tilt
@@ -233,7 +233,7 @@ GEM
     turn (0.9.7)
       ansi
       minitest (~> 4)
-    tzinfo (0.3.50)
+    tzinfo (0.3.51)
     uglifier (3.0.0)
       execjs (>= 0.3.0, < 3)
     uuidtools (2.1.5)
