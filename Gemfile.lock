@@ -51,7 +51,7 @@ GEM
     coffee-script (2.4.1)
       coffee-script-source
       execjs
-    coffee-script-source (1.10.0)
+    coffee-script-source (1.11.1)
     cvss (0.99.0)
     data_mapper (1.2.0)
       dm-aggregates (~> 1.2.0)
@@ -224,7 +224,7 @@ GEM
       ffi (>= 1.0.0)
     terminal-table (1.7.3)
       unicode-display_width (~> 1.1.1)
-    test-unit (3.2.2)
+    test-unit (3.2.3)
       power_assert
     thor (0.19.1)
     tilt (1.4.1)
