@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/sickill/rainbow
+  revision: 258ba65c0ec783b0fcc7c348e98797e1c986c82c
+  specs:
+    rainbow (2.2.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -182,7 +188,6 @@ GEM
       rake (>= 0.8.7)
       rdoc (~> 3.4)
       thor (>= 0.14.6, < 2.0)
-    rainbow (2.1.0)
     rake (11.3.0)
     rdoc (3.12.2)
       json (~> 1.4)
@@ -265,7 +270,7 @@ DEPENDENCIES
   pg
   rack
   rails (= 3.2.22.5)
-  rainbow (< 2.2.0)
+  rainbow!
   rake
   rspec-rails (= 2.99.0)
   sass-rails
