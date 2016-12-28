@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/sickill/rainbow
-  revision: 258ba65c0ec783b0fcc7c348e98797e1c986c82c
+  revision: d01d34ecbc75c71bee2b07367398fe5035e1ee48
   specs:
     rainbow (2.2.0)
 
