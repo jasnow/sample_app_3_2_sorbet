@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.22.5'
 
-gem 'i18n', '0.7.0'
+gem 'i18n', '0.7.0' # LOCKED DOWN.
  
 gem 'rake'
 gem 'rack'
