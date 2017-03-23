@@ -234,7 +234,7 @@ GEM
     turn (0.9.7)
       ansi
       minitest (~> 4)
-    tzinfo (0.3.52)
+    tzinfo (0.3.53)
     uglifier (3.1.9)
       execjs (>= 0.3.0, < 3)
     unicode-display_width (1.1.3)
