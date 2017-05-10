@@ -151,7 +151,7 @@ GEM
     mini_portile2 (2.1.0)
     minitest (4.7.5)
     multi_json (1.12.1)
-    nokogiri (1.7.1)
+    nokogiri (1.7.2)
       mini_portile2 (~> 2.1.0)
     overcommit (0.39.1)
       childprocess (~> 0.6.3)
