@@ -128,7 +128,7 @@ GEM
     fastercsv (1.5.5)
     ffi (1.9.18)
     gravatar_image_tag (1.2.0)
-    haml (5.0.3)
+    haml (5.0.4)
       temple (>= 0.8.0)
       tilt
     hike (1.2.3)
