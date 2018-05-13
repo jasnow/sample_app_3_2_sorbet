@@ -237,7 +237,7 @@ GEM
     temple (0.8.0)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
-    test-unit (3.2.7)
+    test-unit (3.2.8)
       power_assert
     thor (0.20.0)
     tilt (1.4.1)
