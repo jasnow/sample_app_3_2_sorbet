@@ -193,7 +193,7 @@ GEM
     temple (0.8.0)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
-    test-unit (3.2.9)
+    test-unit (3.3.0)
       power_assert
     thor (0.20.3)
     tilt (1.4.1)
