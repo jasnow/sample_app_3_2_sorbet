@@ -238,7 +238,7 @@ DEPENDENCIES
   rubocop-rspec
   sass-rails
   spork-rails
-  sqlite3
+  sqlite3 (= 1.3.13)
   test-unit
   turn
   uglifier
