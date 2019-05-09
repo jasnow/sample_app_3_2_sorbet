@@ -229,7 +229,6 @@ DEPENDENCIES
   nokogiri
   overcommit
   pg
-  rack
   rails (= 3.2.22.5)
   rake
   rspec-rails (= 2.99.0)
