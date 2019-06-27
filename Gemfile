@@ -14,6 +14,10 @@ gem 'json'
 gem 'holepicker'
 gem 'overcommit'
 
+gem 'sorbet', :group => :development
+gem 'sorbet-runtime'
+gem 'sorbet-rails'
+
 group :development do
   gem 'annotate'
   gem 'faker'
