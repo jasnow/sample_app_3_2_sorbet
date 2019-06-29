@@ -1,3 +1,4 @@
+# typed: false
 module ApplicationHelper
 
   def logo

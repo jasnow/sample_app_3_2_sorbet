@@ -1,3 +1,4 @@
+# typed: true
 module MicropostsHelper
 
   def wrap(content)

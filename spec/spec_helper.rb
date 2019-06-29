@@ -1,3 +1,4 @@
+# typed: ignore
 require 'spork'
 
 Spork.prefork do

@@ -1,3 +1,4 @@
+# typed: ignore
 # == Schema Information
 # Schema version: 20110514204523
 #

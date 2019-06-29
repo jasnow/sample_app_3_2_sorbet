@@ -1,3 +1,4 @@
+# typed: false
 class AddEmailUniquenessIndex < ActiveRecord::Migration
 
   def self.up

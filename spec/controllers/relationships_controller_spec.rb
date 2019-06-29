@@ -1,3 +1,4 @@
+# typed: ignore
 require 'spec_helper'
 
 describe RelationshipsController, :type => :controller do

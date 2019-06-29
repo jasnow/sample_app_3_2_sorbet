@@ -1,3 +1,4 @@
+# typed: ignore
 SampleApp31::Application.routes.draw do
 
   resources :users do

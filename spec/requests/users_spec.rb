@@ -1,3 +1,4 @@
+# typed: ignore
 require 'spec_helper'
 
 describe "Users", :type => :request do

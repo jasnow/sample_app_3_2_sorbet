@@ -1,3 +1,4 @@
+# typed: ignore
 require 'spec_helper'
 
 describe "FriendlyForwardings", :type => :request do

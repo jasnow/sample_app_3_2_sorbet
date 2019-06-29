@@ -1,3 +1,4 @@
+# typed: ignore
 class UsersController < ApplicationController
   #before_filter :authenticate, :only => [:index, :edit, :update, :destroy]
   before_filter :authenticate, :except => [:show, :new, :create]

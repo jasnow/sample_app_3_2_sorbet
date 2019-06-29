@@ -1,3 +1,4 @@
+# typed: ignore
 class PagesController < ApplicationController
 
   def home

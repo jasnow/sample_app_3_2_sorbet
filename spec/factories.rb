@@ -1,3 +1,4 @@
+# typed: ignore
 # By using the symbol ':user', we get FactoryBot to simulate the User model.
 
 FactoryBot.define do

@@ -1,3 +1,4 @@
+# typed: true
 module ActiveSupport
   module JSON
     module Encoding

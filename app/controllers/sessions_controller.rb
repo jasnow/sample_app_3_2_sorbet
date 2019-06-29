@@ -1,3 +1,4 @@
+# typed: ignore
 class SessionsController < ApplicationController
 
   def new
