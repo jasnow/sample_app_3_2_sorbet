@@ -12,7 +12,6 @@ gem 'jquery-rails'
 gem 'nokogiri'
 gem 'json'
 gem 'holepicker'
-gem 'overcommit'
 
 gem 'sorbet', :group => :development
 gem 'sorbet-runtime'
