@@ -15,7 +15,7 @@ gem 'holepicker'
 
 gem 'sorbet', :group => :development
 gem 'sorbet-runtime'
-#gem 'sorbet-rails'
+gem 'sorbet-rails'
 
 group :development do
   gem 'annotate'
