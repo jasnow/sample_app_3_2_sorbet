@@ -1,4 +1,4 @@
-# typed: false
+# typed: ignore
 class CreateRelationships < ActiveRecord::Migration
   def self.up
     create_table :relationships do |t|

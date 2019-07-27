@@ -1,4 +1,4 @@
-# typed: false
+# typed: ignore
 class CreateUsers < ActiveRecord::Migration
   def self.up
     create_table :users do |t|
