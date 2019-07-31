@@ -5,7 +5,7 @@ gem 'rails', '3.2.22.5'
 gem 'rake'
 gem 'gravatar_image_tag'
 gem 'will_paginate'
-gem 'sass-rails'
+gem 'sass-rails' # 7/30/2019: Can't upgrade to sassc-rails gem.
 gem 'coffee-script'
 gem 'uglifier'
 gem 'jquery-rails'
