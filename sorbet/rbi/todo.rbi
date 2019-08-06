@@ -2,7 +2,6 @@
 #   srb rbi todo
 
 # typed: strong
-module ActionDispatch::Routing::Mapper; end
 module ActionMailer::Base::Mail::Message; end
 module ActiveModel::AttributeMethods; end
 module ActiveModel::Conversion; end
@@ -42,9 +41,9 @@ module ActiveRecord::Store; end
 module ActiveRecord::Timestamp; end
 module ActiveRecord::Transactions; end
 module ActiveRecord::Translation; end
-module ActiveSupport::ActionController::Base; end
 module ActiveSupport::Benchmarkable; end
 module ActiveSupport::DescendantsTracker; end
+module ActiveSupport::HashWithIndifferentAccess; end
 module ActiveSupport::Multibyte::Chars; end
 module ActiveSupport::StringInquirer; end
 module ActiveSupport::TimeWithZone; end
