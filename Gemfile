@@ -15,7 +15,7 @@ gem 'holepicker'
 
 gem 'sorbet', :group => :development
 gem 'sorbet-runtime'
-gem 'sorbet-rails'
+gem 'sorbet-rails', '0.4.0' # 8/11/2019: LOCKED DOWN (0.5.0 broken)
 
 group :development do
   gem 'annotate'

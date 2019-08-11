@@ -68,8 +68,8 @@ GEM
     factory_bot_rails (4.11.1)
       factory_bot (~> 4.11.1)
       railties (>= 3.0.0)
-    faker (2.1.0)
-      i18n (>= 0.7)
+    faker (2.1.2)
+      i18n (>= 0.8)
     ffi (1.11.1)
     gravatar_image_tag (1.2.0)
     haml (5.1.2)
@@ -96,14 +96,14 @@ GEM
     mini_portile2 (2.4.0)
     minitest (4.7.5)
     multi_json (1.13.1)
-    nokogiri (1.10.3)
+    nokogiri (1.10.4)
       mini_portile2 (~> 2.4.0)
     parallel (1.17.0)
     parser (2.6.3.0)
       ast (~> 2.4.0)
     pg (1.1.4)
     polyglot (0.3.5)
-    power_assert (1.1.4)
+    power_assert (1.1.5)
     ptools (1.3.5)
     rack (1.4.7)
     rack-cache (1.9.0)
@@ -233,7 +233,7 @@ DEPENDENCIES
   rubocop-rspec
   sass-rails
   sorbet
-  sorbet-rails
+  sorbet-rails (= 0.4.0)
   sorbet-runtime
   spork-rails
   sqlite3 (= 1.3.13)
