@@ -44,8 +44,9 @@ module ActiveRecord::Translation; end
 module ActiveSupport::Benchmarkable; end
 module ActiveSupport::DescendantsTracker; end
 module ActiveSupport::HashWithIndifferentAccess; end
+module ActiveSupport::HashWithIndifferentAccess; end
+module ActiveSupport::HashWithIndifferentAccess; end
 module ActiveSupport::Multibyte::Chars; end
 module ActiveSupport::StringInquirer; end
 module ActiveSupport::TimeWithZone; end
-module Gem::SilentUI; end
 module Minitest::Runnable; end
